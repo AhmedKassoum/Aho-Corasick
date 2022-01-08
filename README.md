@@ -22,3 +22,6 @@
 <p>./ac-matrice mots3.txt texte3.txt > res-ac-matrice</p>
 <h2>Recherche Aho-corasick avec la table de hachage</h2>
 <p>./ac-hachage mots3.txt texte3.txt > res-ac-hachage</p>
+
+<h1>Comparaison entre les deux structures de données utilisées</h1>
+<img src="./cmp.png">
