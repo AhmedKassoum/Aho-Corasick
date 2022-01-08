@@ -2,7 +2,7 @@
 
 make
 
-# Suppression des fichiers générés (executables et objets) ---> (Nettoyage)
+# Suppression des fichiers générés
 
 make clean
 
